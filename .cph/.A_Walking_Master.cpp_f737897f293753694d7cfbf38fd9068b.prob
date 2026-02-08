@@ -1,0 +1,8 @@
+{"name":"A. Walking Master",
+"group":"Codeforces - Codeforces Round 858 (Div. 2)",
+"url":"https://codeforces.com/problemset/problem/1806/A",
+"interactive":false,"memoryLimit":1024,"timeLimit":1000,"tests":[],
+"testType":"single","input":{"type":"stdin"},"output":{"type":"stdout"},
+"languages":{"java":{"mainClass":"Main","taskClass":"AWalkingMaster"}}
+,"batch":{"id":"4674aebc-48e3-4bee-a196-cdfba220fc09","size":1},
+"srcPath":"/home/ruru/cp/A_Walking_Master.cpp"}
